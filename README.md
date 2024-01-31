@@ -1,6 +1,6 @@
 # CRM-CRUD-REST-Prueba-
-creat db
+### creat db
 'npm install json-server'
 
-run server
+### run server
 'px json-server db.json'
