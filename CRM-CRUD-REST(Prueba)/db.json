@@ -1,0 +1,46 @@
+{
+  "clientes": [
+    {
+      "nombre": "Alexis",
+      "email": "aapsmx@icloud.com",
+      "empresa": "WMC",
+      "telefono": "747",
+      "id": "1"
+    },
+    {
+      "nombre": "Alexis",
+      "email": "alxsandoval@gmail.com",
+      "empresa": "Free",
+      "telefono": "664",
+      "id": "2"
+    },
+    {
+      "id": "f5a0",
+      "nombre": "Martin RO",
+      "email": "monse@outlol.com",
+      "telefono": "45787914567",
+      "empresa": "Comiudas"
+    },
+    {
+      "id": "5e26",
+      "nombre": "Martin RO",
+      "email": "monse@outlol.com",
+      "telefono": "45787914567",
+      "empresa": "Comiudas"
+    },
+    {
+      "id": "04cf",
+      "nombre": "ximwe",
+      "email": "dasdasdsa@dasdas",
+      "telefono": "asddsadsa",
+      "empresa": "Comiudas"
+    },
+    {
+      "id": "57bd",
+      "nombre": "rey",
+      "email": "rey@ejemplo",
+      "telefono": "45787914567",
+      "empresa": "Devocados"
+    }
+  ]
+}
